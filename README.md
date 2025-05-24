@@ -34,9 +34,15 @@
 ```yaml
 name: Nitik Sharma
 located_in: Bengaluru, Karnataka
-current_job: React.Js Developer @Tredence
-education: Bachelor's from IIT Dhanbad,
+current_job: Software Developer (React.Js)
+education: B.Tech from IIT Dhanbad,
 company: Tredence
+
+skill_set: [
+    JavaScript/TypeScript: React.Js, Express.Js, MongoDb
+    Python: Numpy, Pandas, Dash (Full Stack Framework)
+    SQL: Solved crazy amount of problems in SQL for practice.
+]
 
 technical_background: [
     Full Time - Software Developer @Tredence
